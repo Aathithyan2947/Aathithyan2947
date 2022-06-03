@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aathithyan
-- 👀 I’m interested in flutter and cybersecurity
-- 🌱 I’m currently learning flutter and cybersecurity
+- 👀 I’m interested in flutter and python
+- 🌱 I’m currently learning flutter and python
 - 📫 How to reach me through gmail (aathireguraj@gmail.com)
 
 <!---
