@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aathithyan2947" alt="aathithyan2947" /></a> </p>
 
-- 🌱 I’m Software Developer**
-
 - 💬 Ask me about **Next.js, react, Express.js ,flutter and node.js**
 
 - 📫 How to reach me **sraathithyan1027@gmail.com**
